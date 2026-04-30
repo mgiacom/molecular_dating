@@ -1,0 +1,14 @@
+Homo_sapiens,Pan -7:-12
+Homo_sapiens,Macaca_fuscata -33:-50
+Homo_neander -0.2
+Lemur_catta 0
+Homo_sapiens 0
+Gorilla 0
+Pan 0
+Pongo 0
+Macaca_fuscata 0
+M._mulatta 0
+M._fascicularis 0
+M._sylvanus 0
+Saimiri_sciureus 0
+Hylobates 0
